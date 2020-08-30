@@ -1,7 +1,4 @@
 ﻿//
-// Larry Nguyen 9/27/2019
-// CIS262AD Fall 2019
-// Class 35772
 //
 using System;
 using System.Collections.Generic;
