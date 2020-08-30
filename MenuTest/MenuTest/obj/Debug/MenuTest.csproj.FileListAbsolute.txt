@@ -1,0 +1,8 @@
+C:\Users\Larry\Desktop\ch15\Fig15_07\MenuTest\MenuTest\bin\Debug\MenuTest.exe
+C:\Users\Larry\Desktop\ch15\Fig15_07\MenuTest\MenuTest\bin\Debug\MenuTest.pdb
+C:\Users\Larry\Desktop\ch15\Fig15_07\MenuTest\MenuTest\obj\Debug\MenuTest.csprojResolveAssemblyReference.cache
+C:\Users\Larry\Desktop\ch15\Fig15_07\MenuTest\MenuTest\obj\Debug\MenuTest.MenuTestForm.resources
+C:\Users\Larry\Desktop\ch15\Fig15_07\MenuTest\MenuTest\obj\Debug\MenuTest.Properties.Resources.resources
+C:\Users\Larry\Desktop\ch15\Fig15_07\MenuTest\MenuTest\obj\Debug\MenuTest.csproj.GenerateResource.Cache
+C:\Users\Larry\Desktop\ch15\Fig15_07\MenuTest\MenuTest\obj\Debug\MenuTest.exe
+C:\Users\Larry\Desktop\ch15\Fig15_07\MenuTest\MenuTest\obj\Debug\MenuTest.pdb
