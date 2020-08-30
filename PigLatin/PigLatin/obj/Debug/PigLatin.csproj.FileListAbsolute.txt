@@ -1,0 +1,9 @@
+C:\Users\Larry\Desktop\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\Larry\Desktop\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\Larry\Desktop\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\Larry\Desktop\PigLatin\PigLatin\obj\Debug\PigLatin.csprojResolveAssemblyReference.cache
+C:\Users\Larry\Desktop\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\Larry\Desktop\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
+C:\Users\Larry\Desktop\CIS262AD\16.2\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\Larry\Desktop\CIS262AD\16.2\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\Larry\Desktop\CIS262AD\16.2\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
