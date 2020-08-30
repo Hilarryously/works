@@ -1,0 +1,17 @@
+C:\Users\Larry\Desktop\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\Larry\Desktop\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\Larry\Desktop\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\Larry\Desktop\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\Larry\Desktop\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\Larry\Desktop\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.Cache
+C:\Users\Larry\Desktop\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\Larry\Desktop\ComboBox\ComboBox\obj\Debug\ComboBox.pdb
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\obj\Debug\ComboBox.csprojAssemblyReference.cache
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+D:\School stuff\CIS262AD\15.3\ComboBox\ComboBox\obj\Debug\ComboBox.pdb
